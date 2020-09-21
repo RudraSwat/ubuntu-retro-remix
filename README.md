@@ -10,7 +10,7 @@
 
 ## Introduction
 
-A script that build Raspberry Pi images of Ubuntu for retro gaming.
+A script that builds Raspberry Pi images of Ubuntu for retro gaming.
 
 We have a Discord for this project:
 
